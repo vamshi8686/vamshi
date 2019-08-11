@@ -12,7 +12,7 @@ jenkinsapi
 
 .. image:: https://requires.io/github/pycontribs/jenkinsapi/requirements.png?branch=master
         :target: https://requires.io/github/pycontribs/jenkinsapi/requirements/?branch=master
-        :alt: Requirements Status
+        :alt: Requirements Status.
 
 About this library
 -------------------
